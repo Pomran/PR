@@ -1,7 +1,7 @@
 # Github学习报告  
 `@Author 庞燃`         
 `@Date 20200213`    
-[仓库](#1) | [分支](#2) | [拉取请求](#3) | [合并请求](#4)  
+[仓库](#1) | [分支](#2) | [拉取请求](#3) | [合并请求](#4) | [Fork拷贝](#5)  
 
 `了解GitHub的基本术语和操作`
 
@@ -40,10 +40,13 @@
 2. `点击Confirm merge。`
 <img src="https://guides.github.com/activities/hello-world/merge-button.png"  width="400" height="120" />
 
-
+# <a id='5'>Fork拷贝</a>
+<img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" width="240" height="60">
+没啥好说的，Fork以后你的就是我的了:smirk:
 
 # 总结归纳
 * 创建一个开源存储库
 * 开始并管理一个新分支
 * 更改了文件并将这些更改提交给GitHub
 * 打开并合并拉取请求
+* 拷贝一个需要的仓库
