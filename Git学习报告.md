@@ -20,4 +20,6 @@ git config 命令中的 --global 参数， 表示你这台机器上所有的 Git
 配置好之后可以使用 git config -l查看配置
 
 # <a id='3'>用途</a>
+通过Git管理Github托管代码
+
 # <a id='4'>用法</a>
