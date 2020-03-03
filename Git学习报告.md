@@ -23,3 +23,4 @@ git config 命令中的 --global 参数， 表示你这台机器上所有的 Git
 通过Git管理Github托管代码
 
 # <a id='4'>用法</a>
+[Google it](https://www.google.com/)
