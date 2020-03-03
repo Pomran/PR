@@ -9,7 +9,7 @@ Git 是一个分布式版本控制系统
 # <a id='2'>安装</a>
 [安装Git](https://git-scm.com/downloads)   
 
-个人信息设置
+个人信息设置   
 因为 Git 是分布式版本控制系统，所以，每个机器都必须自报家门：你的名字和 Email 地址（用来分辨编辑者）
 
 在开始菜单中找到 git-->git bash
@@ -24,3 +24,5 @@ git config 命令中的 --global 参数， 表示你这台机器上所有的 Git
 
 # <a id='4'>用法</a>
 [Google it](https://www.google.com/)
+
+ps：Git鉴于我当前的编程水平，未深入学习。
