@@ -1,4 +1,4 @@
-Tkinter
+# Tkinter
 我们来梳理一下概念：
 
 我们编写的Python代码会调用内置的Tkinter，Tkinter封装了访问Tk的接口；
