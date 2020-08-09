@@ -44,6 +44,6 @@ app.mainloop()
 GUI程序的主线程负责监听来自操作系统的消息，并依次处理每一条消息。因此，如果消息处理非常耗时，就需要在新线程中处理。
 
 运行这个GUI程序，可以看到下面的窗口：
-[1]: https://static.liaoxuefeng.com/files/attachments/972676918012640
+![oeqrd.png](https://wx2.sbimg.cn/2020/08/09/oeqrd.png)
 
 点击“Quit”按钮或者窗口的“x”结束程序。
